@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.blockcypher</groupId>
-	<artifactId>java-client</artifactId>
+	<artifactId>JBlockCypher</artifactId>
 	<version>0.1.2-SNAPSHOT</version>
 	<dependencies>
 		<dependency>
